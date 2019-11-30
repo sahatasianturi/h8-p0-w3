@@ -3,7 +3,6 @@ function tentukanDeretAritmatika(arr) {
     for (i=1; i<arr.length-1; i++){
         var beda = arr[1]-arr[0]
        cek = arr[i+1]-arr[i]==beda
-        
         }return cek
 
 
